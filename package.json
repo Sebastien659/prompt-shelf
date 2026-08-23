@@ -1,6 +1,6 @@
 {
   "name": "prompt-shelf",
-  "version": "0.1.18",
+  "version": "0.1.19",
   "description": "Prompt Shelf is a lightweight prompt management system designed for developers and AI engineers.",
   "main": "src/index.ts",
   "scripts": {
